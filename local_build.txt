@@ -1,0 +1,7 @@
+open git bash or cmd in this folder and type 
+
+bundle exec jekyll serve --livereload
+
+then open browser and check localhost in browser at 
+
+http://localhost:4000/

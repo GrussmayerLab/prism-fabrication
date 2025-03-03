@@ -1,8 +1,30 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+# Site Settings
+title                   : MultiZ - a self assembled multiplane prism
+description             : Building your own refractive multiplane splitter for single/dual sensor volumetric microscopy with off the shelf components
+theme                   : just-the-docs
+remote_theme            : just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://GrussmayerLab.github.io/prism-fabrication
+#baseurl                  : "/incubator" # the subpath of your site, e.g. "/blog"
+repository               : GrussmayerLab/prism-fabrication # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "docs/favicon_prism.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+favicon_ico              : "docs/favicon.ico"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/GrussmayerLab/prism-fabrication
+
+nav_enabled: true
+
+footer_content: "Copyright &copy; 2017-2025 Arti Tyagi, Moritz Engelhardt. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+#callouts:
+#  warning:
+#    title: Warning
+#    color: red
+
