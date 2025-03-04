@@ -1,4 +1,4 @@
-This repository is created for an open-hardware project to enable the assembly of [multiplane prisms](https://grussmayerlab.github.io/prism-fabricatioz/) based on off-the-shelf beamsplitters by the Grussmayer lab at TU Delft.
+This repository is created for an open-hardware project to enable the assembly of [multiplane prisms](https://grussmayerlab.github.io/prism-fabrication/) based on off-the-shelf beamsplitters by the Grussmayer lab at TU Delft.
 
 
 ## Licensing and Attribution
